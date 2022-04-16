@@ -20,3 +20,16 @@
 - Limites arquiteturais
 - Percepção sobre regras de negócios
 - Beber água direto da fonte sempre importa
+
+### Pontos importantes sobre arquitetura
+- Arquitetura nos ajuda no Formato que o software terá
+- Divisão de componentes
+- Comunicação entre componentes
+- Uma boa arquitetura vai facilitar o processo de desenvolvimento, deploy, operação e manutenção
+
+"The strategy behind tha facilitation is to leave as many options open as possible, for as long as possible."
+C. Martin Robert. Clean Archtecture (p. 136)
+
+### Objetivos de uma boa arquitetura
+O objetivo principal da arquitetura é dar suporte ao ciclo de vida do sistema. Uma boa arquitetura torna o sistema fácil de entender, fácil de desenvolver, fácil de manter e fácil de implantar. O objetivo final pe minimizar o custo de vida útil do sistema e maximizar a produtividade do programador.
+C. Martin Robert. Clean Archtecture (p. 137)
