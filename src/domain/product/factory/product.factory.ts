@@ -4,7 +4,7 @@ import { v4 as uuid } from "uuid";
 import ProductFactoryAbstract, { ProductFactoryProps } from "./product.factory.interface";
 
 export default class ProductFactory extends ProductFactoryAbstract {
-  static create(props: ProductFactoryProps): ProductInterface {
+  static create(props: ProductFactoryProps): Product {
       const {name, price} = props;
       return new Product(uuid(), name, price);
   }
