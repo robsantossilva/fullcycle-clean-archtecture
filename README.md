@@ -106,3 +106,5 @@ xmlResult = presenter.toXML()
 - Não há definição explicita de como criar as entities
 - **Normalmente utilizamos táticas do DDD**
 - Entities = Agregados + Domain Services
+
+### 
