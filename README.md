@@ -107,4 +107,4 @@ xmlResult = presenter.toXML()
 - **Normalmente utilizamos táticas do DDD**
 - Entities = Agregados + Domain Services
 
-### 
+### Notification Pattern
