@@ -108,3 +108,5 @@ xmlResult = presenter.toXML()
 - Entities = Agregados + Domain Services
 
 ### Notification Pattern
+
+### Presenters
